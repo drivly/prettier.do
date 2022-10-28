@@ -1,10 +1,10 @@
-# worker.templates.do - Templates
+# Prettier.do - Prettier API and GitHub App
 
 ## Getting Started
 
 If you don't already have a browser extension to pretty-print JSON and make links clickable, start by installing that: <https://extensions.do>
 
-Then interactively use the API at: <https://templates.do/api>
+Then interactively use the API at: <https://prettier.do/api>
 
 ```json
 {
